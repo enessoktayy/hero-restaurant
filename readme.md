@@ -1,0 +1,1 @@
+Figma'daki hero restaurant adlı tasarımı kodlayacağım
